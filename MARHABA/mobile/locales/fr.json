@@ -1,0 +1,54 @@
+{
+  "Settings":"Paramétres",
+  "change-language": "Langage",
+  "langue": "Francais",
+  "Localisation":"Localisation",
+  "Help":"Assistance",
+  "Notifications":"Notifications",
+  "Fermer-compte":"Fermer le compte",
+  "Assistance":"Aide",
+  "Contact-us":"Nous contactez",
+  "Se-deco":"Se deconnecter",
+  "welcome": "Bonjour",
+  "Offre-spéciale":"Offre spéciale",
+  "Ville-plus-visité":"Ville plus visité",
+  "Beaux-endroits":"Beaux endroits",
+  "Traditions":"Traditions",
+  "Produits":"Produits",
+  "Magasins":"Magasins",
+  "Restaurants":"Restaurants",
+  "Activités":"Activités",
+  "Monuments":"Monuments",
+  "Logements":"Logements",
+  "APPARTEMENTS":"APPARTEMENTS",
+  "Create-account":"Créons un compte pour vous",
+  "Nav-home":"Accueil",
+  "Nav-Map":"Carte",
+  "Nav-Settings":"Paramétres",
+  "Nav-trips":"Voyages",
+  "Create-acc":"S'inscrire",
+  "First-name":"Prénom",
+  "Last-name":"Nom",
+  "psw":"Mot de passe",
+  "condition1":"En selectionnant j'accepte au dessous,",
+  "condition2":"Vous agréez au termes de service et politique de confidentialité",
+  "Continue":"Continuer",
+  "ContinueFace":"Continuer avec Facebook",
+  "ContinueGoogle":"Continuer avec Google",
+  "Noaccount":"Pas encore de compte ?",
+  "AgreeContinue":"Agréer et continuer",
+  "Trip-title":"VOTRE VOYAGE",
+  "Delete":"Supprimer",
+  "Favoris":"Favoris",
+  "Trips":"VOYAGE",
+  "Add":"Ajouter",
+  "or":"ou",
+  "Createtrip":"Organiser votre voyage"
+
+
+
+
+
+
+
+}
