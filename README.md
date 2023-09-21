@@ -22,8 +22,7 @@ Set your local server's static IP to `192.168.11.101`:
 - Select Internet Protocol Version 4 (TCP/IPv4) and click Properties.
 - Choose 'Use the following IP address' and set the IP to `192.168.11.101`.
 
-![image](https://github.com/abdobzx/MARHABA/assets/61870589/8de02fb3-deb5-469e-b7f8-3098eb39abaa)
-
+![Network Settings](images/network_settings.png)
 
 ## Step 3: Install MySQL
 
