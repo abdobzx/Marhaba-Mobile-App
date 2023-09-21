@@ -13,19 +13,23 @@ Dive into the visual journey of MARHABA! Get a glimpse of the seamless user inte
 Screenshots:
 
 Screenshot 1
+
 ![4](https://github.com/abdobzx/MARHABA/assets/61870589/b29616ce-f631-43ac-b90d-5b5457bb5873)
 
 Screenshot 2
+
 ![3](https://github.com/abdobzx/MARHABA/assets/61870589/97ee0458-bcfd-445a-96b6-3819b7c42f1c)
 
-
 Screenshot 3
+
 ![8](https://github.com/abdobzx/MARHABA/assets/61870589/00cb0c17-fb54-415e-b603-e13b87df5e4b)
 
 Screenshot 4
+
 ![WhatsApp Image 2023-09-20 at 22 03 04](https://github.com/abdobzx/MARHABA/assets/61870589/411bb4a8-daa4-4d15-9314-faf0c68c57b2)
 
 Screenshot 5
+
 ![5](https://github.com/abdobzx/MARHABA/assets/61870589/6f2b6bda-ada1-47dd-8fbc-1e91fe5414d1)
 
 Features in Action:
